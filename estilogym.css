@@ -5,17 +5,19 @@ border-color: #ff630e;
 border-radius: 20px;
 border-width: 10px;
 background-color: #c5212a;
-background-image: url("IMG_20180606_081933_223.jpg");
 background-size: cover;
 text-align: center;
 text-shadow: 5px 2px 3px #000;
 line-height: 100%;
 }
 body {
-background-image: url(05.jpg);
+background-image: url(mia.jpg);
+background-size: cover;
+background-repeat:no-repeat ;
+background-position: initial;
+background-position:center;
 
-
-}
+} 
 .club {
     color: #ff630e;
     background-color: #c5212a;
